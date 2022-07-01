@@ -1,0 +1,13 @@
+integer initMass
+integer growthRate
+integer yearsGrow
+integer finalMass
+
+initMass = Get next input
+growthRate = Get next input
+yearsGrow = Get next input
+
+finalMass = initMass * RaiseToPower(1.0 + growthRate, yearsGrow)
+Put "Final mass after" to output
+Put "years is:" to output
+Put finalMass to output

@@ -1,0 +1,15 @@
+integer kidsFamily1
+integer kidsFamily2
+integer numFamilies
+integer avgKidsPerFamily
+
+numFamilies = 2
+kidsFamily1 = 3
+kidsFamily2 = 4
+
+// Should be 3.5, but is 3 instead
+avgKidsPerFamily = (kidsFamily1 + kidsFamily2) / numFamilies
+
+Put "Average kids per family: " to output
+Put avgKidsPerFamily to output
+

@@ -1,0 +1,18 @@
+● Function
+A function is a block of code that can be ran later
+● Function Declaration
+Something that tells the compiller the information of a function
+● Function Call
+Evaluates a value as in Square Root.
+● Arguments
+Ways to provide additional data in variables
+● Type Casting
+Assigning a new value to a DataType
+● Implicit Conversion
+The sequence of commands which are required to assign an arguement into a function
+● Explicit Converstion*
+A way to tell the compiller that an application is attempting to do a converstion despite the possibilitys of data lost
+● Modulo
+The devided remainder of two integer values
+● Constant
+A value that cannot be changed by the program during run time.

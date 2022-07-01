@@ -1,0 +1,12 @@
+integer randomValue
+
+SeedRandomNumbers(11)
+
+randomValue = RandomNumber(1,6)
+Put randomValue to output
+
+randomValue = RandomNumber(1,6)
+Put randomValue to output
+
+randomValue = RandomNumber(1,6)
+Put randomValue to output
